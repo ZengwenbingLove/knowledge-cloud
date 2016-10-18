@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengwenbingLove/knowledge-cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZengwenbingLove/knowledge-cloud/issues"
+  },
+  "homepage": "https://github.com/ZengwenbingLove/knowledge-cloud#readme"
+}
